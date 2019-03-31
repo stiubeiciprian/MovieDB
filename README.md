@@ -4,6 +4,9 @@
 
 ### Screenshots
 
+## Database diagram 
+<img src="readme images/sqltable.jpg"/>
+
 ### Home page
 <img src="readme images/Home.jpg"/>
 
@@ -19,5 +22,3 @@
 ### Upload page
 <img src="readme images/Upload.jpg"/>
 
-## Database diagram 
-<img src="readme images/sqltable.jpg"/>
