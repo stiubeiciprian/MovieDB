@@ -2,11 +2,12 @@
 
 <p>A simple movie database / reviews / watchlist site I made to practice HTML, CSS, PHP and SQL.</p>
 
-### Screenshots
+
 
 ## Database diagram 
 <img src="readme images/sqltable.jpg"/>
 
+### Screenshots
 ### Home page
 <img src="readme images/Home.jpg"/>
 
