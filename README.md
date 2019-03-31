@@ -1,6 +1,6 @@
 #  <img align="top" height=40 src="resources/logo.ico"/> DevMovies - High school project 
 
-<p>A simple movie database / reviews / watchlist site I made to put my theoretical understanding of databases and websites to practice.</p>
+<p>A simple movie database / reviews / watchlist site I made to practice HTML, CSS, PHP and SQL.</p>
 
 ## Database diagram 
 <img src="readme images/sqltable.jpg"/>
