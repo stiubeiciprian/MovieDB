@@ -8,13 +8,16 @@
 ## Screenshots
 
 ### Home page
-<img src="readme images/home.jpg"/>
+<img src="readme images/Home.jpg"/>
 
 ### Search page
-<img src="readme images/search.jpg"/>
+<img src="readme images/Search.jpg"/>
 
 ### Watchlist
-<img src="readme images/watchlist.jpg"/>
+<img src="readme images/Watchlist.jpg"/>
 
 ### Movie page
-<img src="readme images/movie.jpg"/>
+<img src="readme images/Movie.jpg"/>
+
+### Upload page
+<img src="readme images/Upload.jpg"/>
