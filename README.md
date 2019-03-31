@@ -7,7 +7,7 @@
 ## Database diagram 
 <img src="readme images/sqltable.jpg"/>
 
-### Screenshots
+## Screenshots
 ### Home page
 <img src="readme images/Home.jpg"/>
 
