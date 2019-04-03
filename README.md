@@ -1,4 +1,4 @@
-#  <img align="top" height=40 src="resources/logo.ico"/> DevMovies - High school project 
+#  <img align="top" height=40 src="resources/logo.ico"/> DevMovies
 
 <p>A simple movie database / reviews / watchlist site I made to practice HTML, CSS, PHP and SQL.</p>
 
