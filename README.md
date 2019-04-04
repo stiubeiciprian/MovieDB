@@ -11,6 +11,9 @@
 ### Home page
 <img src="readme images/Home.jpg"/>
 
+### Signup page
+<img src="readme images/Singup.jpg"/>
+
 ### Search page
 <img src="readme images/Search.jpg"/>
 
