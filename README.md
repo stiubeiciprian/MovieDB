@@ -5,7 +5,7 @@
 
 
 ## Database diagram 
-<img src="readme images/sqltable.jpg"/>
+<p align="center"> <img src="readme images/sqltable.jpg"/> </p>
 
 ## Screenshots
 ### Home page
